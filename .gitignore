@@ -1,0 +1,6 @@
+# Raw survey exports and anything with personal data stay out of the repository
+raw/
+*.xlsx.bak
+**/MSc_Cybersecurity_Feasibility_*.xlsx
+node_modules/
+*.tmp
