@@ -391,8 +391,8 @@ if (MODE !== 'appendix') {
   const s = pres.addSlide();
   const y0 = chrome(s, 'Sources and methods', ACT3);
   const items = [
-    ['Survey A, students and graduates', 'Microsoft Forms, 6 items, anonymous, fielded 22 to 24 Sep 2026 within NIBM, n = 57. Convenience sample, no population denominator, no fee question. 86% current undergraduates. Purchase-intent weighting stated on each figure.'],
-    ['Survey B, industry and external academics', 'Microsoft Forms, 9 items, named, fielded 22 to 24 Sep 2026, n = 7. Purposive sample of senior practitioners and academics already engaged with NIBM. Qualitative evidence; quoted by sector only, pending attribution consent.'],
+    ['Survey A, students and graduates', 'Microsoft Forms, 6 items, anonymous, fielded 22 to 23 Sep 2026 within NIBM, n = 57. Convenience sample, no population denominator, no fee question. 86% current undergraduates. Purchase-intent weighting stated on each figure.'],
+    ['Survey B, industry and external academics', 'Microsoft Forms, 9 items, named, fielded 22 to 23 Sep 2026, n = 7. Purposive sample of senior practitioners and academics already engaged with NIBM. Qualitative evidence; quoted by sector only, pending attribution consent.'],
     ['NIBM institutional facts', 'NIBM Law No. 23 of 1976; SOCE website (soce.nibm.ac.lk); SOCE convocation records Mar 2024 to Sep 2026 and year-3 intake records Nov 2024 to Nov 2026.'],
     ['University of Essex', 'Partnerships framework ("Our approach to new partnerships"); MSc Cyber Security course page and fees; Essex Online award structure, fees and entry criteria; REF 2021 research power (THE measure).'],
     ['Competitive landscape', 'NIBM competitor matrix, Sep 2026; NCSC certified degrees list (May 2026); Complete University Guide and Guardian league tables, 2026 editions.'],
@@ -536,7 +536,7 @@ const ACTA = 'APPENDIX - HELD FOR QUESTIONS';
   const colW = 4.52, gap = 0.11, x0 = 0.45;
   const heads = [['Survey A: students, n = 57', C.brown], ['Survey B: industry and academics, n = 7', C.orange]];
   const cols = [
-    ['Microsoft Forms, 6 items, anonymous; open link circulated within NIBM, 22 to 24 Sep 2026', '49 current undergraduates (86%), 8 graduates; no population denominator, so no response rate', 'Committed demand = positive on a UK award and start within 12 months, then weighted 0.8 / 0.3 (central) or 0.6 / 0.2 (conservative) on the top two bands', 'Limits: self-selected, no fee question, UK question asked after the NIBM question (possible ordering effect), timing aspirational for undergraduates'],
+    ['Microsoft Forms, 6 items, anonymous; open link circulated within NIBM, 22 to 23 Sep 2026', '49 current undergraduates (86%), 8 graduates; no population denominator, so no response rate', 'Committed demand = positive on a UK award and start within 12 months, then weighted 0.8 / 0.3 (central) or 0.6 / 0.2 (conservative) on the top two bands', 'Limits: self-selected, no fee question, UK question asked after the NIBM question (possible ordering effect), timing aspirational for undergraduates'],
     ['Microsoft Forms, 9 items, named; purposive sample of senior people already engaged with NIBM, none NIBM staff', 'IT services, telecom, insurance and its regulator, three national-university academics', 'Qualitative evidence: quoted by sector only, because the form did not capture attribution consent', 'Limits: n = 7; willingness to contribute captured as yes or no, so mode of contribution and teaching capacity were followed up directly'],
   ];
   heads.forEach((h, ci) => {

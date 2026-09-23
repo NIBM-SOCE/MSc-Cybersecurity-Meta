@@ -14,7 +14,7 @@ Contractual and partnership contact with Essex is handled by a separate NIBM tea
 |---|---|
 | `deck/` | The presentation (14 slides) and a separate appendix deck (7 slides, held for questions), both as PPTX and PDF, plus the generator script that rebuilds both (`DECK=main` or `DECK=appendix`) |
 | `docs/` | Speaker script with timings and a question bank; the deck architecture and reasoning; a figure audit tracing every number on every slide to its source |
-| `evidence/surveys/` | Aggregated results of the two feasibility surveys (students and graduates, n = 57; industry and external academics, n = 7) and the synthesis used in the deck |
+| `evidence/surveys/` | Final aggregated results of the two feasibility surveys (students and graduates, n = 57; industry and external academics, n = 7, anonymised by sector) and the synthesis used in the deck |
 | `evidence/nibm/` | Institutional facts, convocation and intake records, delivery panel profiles with public sources |
 | `evidence/essex/` | The Essex facts relied on: partnership principles, programme profile, fees, award structure, rankings |
 | `evidence/market/` | Competitor matrix (Sri Lankan cyber master's provision), league-table positions, fee anchors, exchange rate and labour-market sources |

@@ -1,7 +1,7 @@
 # Consent and data handling
 
 ## Survey A: students and graduates (anonymous, n = 57)
-Collected via Microsoft Forms, 22 to 24 September 2026, open link circulated within NIBM. No names or
+Collected via Microsoft Forms, 22 to 23 September 2026, open link circulated within NIBM. No names or
 emails were collected in the exported analysis set. Only aggregates and cross-tabulations are stored here.
 The Sri Lankan Personal Data Protection Act applies to the source workbook, which stays in NIBM's
 internal storage, not in this repository.

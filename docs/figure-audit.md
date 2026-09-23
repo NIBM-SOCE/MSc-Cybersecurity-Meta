@@ -93,7 +93,7 @@ Every number and dated claim on the presented slides, with its source and the ch
 | Module leadership: Cybersecurity II, Research Project Delivery | SOCE (N. Dharmaratna) | Internal |
 | Dr Krishanthmohan Ratnam, Sri Jayewardenepura; survivable network design | Google Scholar affiliation; DBLP publications | Verified |
 | Module leadership: Networked Systems, Advanced Network Systems | SOCE (N. Dharmaratna) | Internal |
-| Four industry and two further academic volunteers | Survey B: yes from Upasena, Sooriyamudalige, Ambalangodage, Herath (industry); Suduwella, Hansani (academics) | Recomputed |
+| Four industry and two further academic volunteers | Survey B: yes from B1, B4, B5, B7 (industry) and B2, B3 (academics); B6 maybe | Recomputed |
 | MSc 180 credits, PgDip exit at 120 | Essex Online award structure | Verified |
 | BYOD offensive labs; cloud-hosted ranges; AWS Academy; EC-Council; facility requested | SOCE academic delivery | Internal |
 

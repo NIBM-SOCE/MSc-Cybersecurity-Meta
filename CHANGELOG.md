@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.4, 24 September 2026
+- Survey results files rewritten at the final exports (n = 57, n = 7); interim update note removed; Survey B file anonymised by sector.
+- Fielding dates corrected to 22 to 23 September 2026.
+
 ## v2.3, 24 September 2026
 - Pearson VUE test centre removed from the timeline, the partnerships slide, the script and the evidence notes: not operational at present.
 
